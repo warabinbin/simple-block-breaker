@@ -2,5 +2,8 @@
 
 [ゲームをプレイする](https://warabinbin.github.io/simple-block-breaker/)
 
-![ゲームのスクリーンショット](![brockImage](https://github.com/user-attachments/assets/6623f488-a5ed-4f97-b872-7f8882c4413f))
+![ゲームのスクリーンショット]！(![brockImage](https://github.com/user-attachments/assets/7dd720d1-8fe8-4fde-a98a-2572b2d14d42))
+
+
+
 
